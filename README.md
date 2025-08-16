@@ -11,7 +11,6 @@
   
 - Python | TensorFlow | Keras | PyTorch
 - JavaScript | React | Flutter
-- Git | GitHub | Docker
 - Data Analysis | Computer Vision | Deep Learning
 - 📱 Flutter developer crafting engaging mobile experiences
 - ⚛️ React enthusiast creating dynamic and responsive web apps
